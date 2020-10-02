@@ -1,0 +1,13 @@
+{
+  "name": "subj-project-b",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "normalize-scss": "^7.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "browser-sync": "^2.26.7"
+  }
+}

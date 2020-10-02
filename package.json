@@ -1,0 +1,7 @@
+{
+  "name": "yarn-workspaces-example",
+  "version": "0.0.1",
+  "author": "George Arnall",
+  "workspaces": ["sub-project-a", "sub-project-b"],
+  "private": true
+}

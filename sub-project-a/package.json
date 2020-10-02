@@ -1,0 +1,10 @@
+{
+  "name": "sub-project-a",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "^2.29.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.0"
+  }
+}
